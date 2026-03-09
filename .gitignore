@@ -7,3 +7,5 @@ __pycache__
 /tmp
 /translation
 /.codex_patch.diff
+/.vendor
+/tools
